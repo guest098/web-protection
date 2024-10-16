@@ -1,0 +1,66 @@
+2024-10-14 00:15:26,113 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin' -- shanmuk
+127.0.0.1
+2024-10-14 00:16:14,769 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin' -- 12
+127.0.0.1
+2024-10-14 08:59:16,077 - BLOCKED - Blocked request from IP 127.0.0.1 - Reason: ML Model - Query: admin' --shanmuk
+2024-10-14 08:59:16.078402 - IP: 127.0.0.1 - Reason: ML Model
+2024-10-14 09:09:12,915 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 09:33:04,053 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 09:41:21,655 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 09:50:08,659 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 09:53:01,600 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 09:54:37,687 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin' or 1 = 1,1shanmuk
+127.0.0.1
+2024-10-14 09:59:48,736 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'1__123
+127.0.0.1
+2024-10-14 10:02:05,104 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:03:21,648 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__123
+127.0.0.1
+2024-10-14 10:34:28,993 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:41:35,501 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:41:57,668 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:41:58,902 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:52:56,514 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 10:53:38,985 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__sh
+127.0.0.1
+2024-10-14 10:54:08,858 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__12
+127.0.0.1
+2024-10-14 10:54:56,534 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 11:03:24,946 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin'__shanmuk
+127.0.0.1
+2024-10-14 13:14:15,363 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 13:31:19,775 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 13:34:03,249 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:21:48,232 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:51:29,658 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:51:44,435 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk@098
+127.0.0.1
+2024-10-14 14:52:25,724 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:53:44,137 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:53:53,195 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:53:56,403 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:55:46,310 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
+2024-10-14 14:56:07,526 - BLOCKED - Blocked request from IP 127.0.0.1 to URL http://127.0.0.1:5000/: admin"__shanmuk
+127.0.0.1
